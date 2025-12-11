@@ -1,0 +1,10 @@
+{
+  "LatestVersion": "3.1.0",
+  "MinimumSupportedVersion": "3.0.0",
+  "DownloadUrl": "https://github.com/yourusername/yourrepo/releases/download/v3.1.0/AccountLockerRoom_3.1.0.zip",
+  "Changelog": "Version 3.1.0 - Test Update\n\n- Added update system\n- Bug fixes and improvements\n- Performance optimizations\n- Security enhancements",
+  "ReleaseDate": "2024-12-11",
+  "FileSizeBytes": 5242880,
+  "ChecksumSha256": "0000000000000000000000000000000000000000000000000000000000000000"
+}
+
